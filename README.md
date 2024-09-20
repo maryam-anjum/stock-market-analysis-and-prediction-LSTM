@@ -1,1 +1,3 @@
-# stock-market-analysis-and-prediction-LSTM
+
+Stock Market Analysis and Prediction using LSTM
+This project focuses on analyzing and predicting the stock prices of major tech companies (Apple, Google, Microsoft, Amazon) using Long Short-Term Memory (LSTM) networks. Stock data is retrieved from Yahoo Finance via the yfinance library, and moving averages, daily returns, and volume are analyzed through visualizations. The LSTM model is trained on historical stock prices to predict future prices, and the model's performance is evaluated using Root Mean Squared Error (RMSE). The project uses Python, along with libraries such as pandas, seaborn, matplotlib, and Keras for data processing, visualization, and modeling.
